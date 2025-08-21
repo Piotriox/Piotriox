@@ -1,7 +1,18 @@
 ## Hello, I am Piotriox
 
-- I have 3 years of experince in coding. I mostly work on game development and web development.
+I’m a 16-year-old developer who started coding at the age of 13. Since then, I’ve been building my skills through real projects and collaborations. I specialize in HTML, CSS, TailwindCSS, JavaScript (basic), Lua, and Python. I also have experience with PHP, and I’m currently focusing on advancing my knowledge in JavaScript (intermediate/advanced), Next.js, MySQL, and MongoDB.
 
+I have worked on and continue to develop multiple projects, including:
+
+Lakeban – a unique social media platform inspired by Discord and Reddit, where I work as the Lead & Sole Frontend Developer.
+
+Kria Technologies – a development studio I founded and currently own, which originally focused on game development and now operates in the field of web development.
+
+Morsy Studios – my first developer experience as a Roblox Game Developer, where I created games that reached over 2,000 players.
+
+I’m passionate about learning, improving, and delivering high-quality work that combines functionality with clean design. My goal is to keep growing as a developer while creating impactful projects.
+
+-------------------------------------------------------------------------------
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Piotriox) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Piotriox) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Piotriox) 
