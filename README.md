@@ -1,16 +1,12 @@
 ## Hello, I am Piotriox
 
-I’m a 16-year-old developer who started coding at the age of 13. Since then, I’ve been building my skills through real projects and collaborations. I specialize in HTML, CSS, TailwindCSS, JavaScript (basic), Lua, and Python. I also have experience with PHP, and I’m currently focusing on advancing my knowledge in JavaScript (intermediate/advanced), Next.js, MySQL, and MongoDB.
+I’m a 17-year-old developer who began coding at the age of 13. Since then, I’ve gained hands-on experience through real projects and collaborations. I specialize in: HTML, CSS, TailwindCSS, JavaScript, ReactJS, NodeJS, Electron, Lua, Python, MongoDB, MySQL, Netlify, Git, and Canva, and I continue to expand my expertise in modern web development and full-stack practices.
 
-I have worked on and continue to develop multiple projects, including:
-
-Lakeban – a unique social media platform inspired by Discord and Reddit, where I work as the Lead & Sole Frontend Developer.
-
-Kria Technologies – a development studio I founded and currently own, which originally focused on game development and now operates in the field of web development.
-
-Morsy Studios – my first developer experience as a Roblox Game Developer, where I created games that reached over 2,000 players.
-
-I’m passionate about learning, improving, and delivering high-quality work that combines functionality with clean design. My goal is to keep growing as a developer while creating impactful projects.
+Projects & Experience:
+Lakeban – A social media platform initially founded by a friend, which I joined as the Lead & Sole Frontend Developer. When I joined, the platform had 60 users; by the time I left, it reached 300 active users. During my 6-month tenure (March – September 2025), I contributed not only in frontend development but also in project management, video editing, social media management, and marketing.
+Kria Technologies – A development studio I founded and own. Our Roblox games have been played over 500 times, and we built a community of over 100 users. Initially focused on game development, we now operate in web development as well.
+Morsy Studios – My first experience as a Roblox game developer, where I created games that reached over 2,000 players.
+I am passionate about learning, improving, and delivering high-quality projects that combine functionality with clean design. My goal is to continue growing as a developer while creating impactful products.
 
 -------------------------------------------------------------------------------
 
