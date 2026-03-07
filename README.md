@@ -1,12 +1,20 @@
 ## Hello, I am Piotriox
 
-I’m a 17-year-old developer who began coding at the age of 13. Since then, I’ve gained hands-on experience through real projects and collaborations. I specialize in: HTML, CSS, TailwindCSS, JavaScript, ReactJS, NodeJS, Electron, Lua, Python, MongoDB, MySQL, Netlify, Git, and Canva, and I continue to expand my expertise in modern web development and full-stack practices.
+Full-stack developer and founder with 4+ years of hands-on experience, starting my coding journey at age 13. I specialize in modern web and desktop technologies, including HTML, CSS, Tailwind CSS, Vanilla JavaScript, ReactJS, NodeJS, Electron, Python, MongoDB, MySQL, Git, Netlify, and Lua. 
+ 
+Experience Breakdown
+1 year Full-Stack Web Development — Building scalable, user-centric web applications from vanilla technologies to modern frameworks. 
+3 years Game Development — Creating interactive experiences and growing communities in gaming environments. 
 
-Projects & Experience:
-Lakeban – A social media platform initially founded by a friend, which I joined as the Lead & Sole Frontend Developer. When I joined, the platform had 60 users; by the time I left, it reached 300 active users. During my 6-month tenure (March – September 2025), I contributed not only in frontend development but also in project management, video editing, social media management, and marketing.
-Kria Technologies – A development studio I founded and own. Our Roblox games have been played over 500 times, and we built a community of over 100 users. Initially focused on game development, we now operate in web development as well.
-Morsy Studios – My first experience as a Roblox game developer, where I created games that reached over 2,000 players.
-I am passionate about learning, improving, and delivering high-quality projects that combine functionality with clean design. My goal is to continue growing as a developer while creating impactful products.
+Key Projects & Roles 
+Lakeban (Social Media Platform – Co-Founder) — My first full web project, built with Vanilla HTML, CSS, and JavaScript. Served as Project Manager and Lead & Sole Frontend Developer. From launch through October 2025 (when the platform naturally concluded), I drove frontend development, coordinated cross-functional tasks, managed timelines, handled video editing, social media strategy, and marketing efforts. Helped grow the user base from initial users to 300 active users. 
+
+Kria Games (Founder & CEO) — Founded and led a game development studio focused on Roblox experiences. Our games have been played over 2,000 times, building a dedicated community of 100+ users. 
+
+Forkit Browser (Open-Source Project) — Developed an Electron-based desktop browser emphasizing simplicity, performance, and extensibility. Built with Chromium embedding and cross-platform support; available on GitHub for contributions and forks. 
+
+Currently deepening expertise in full-stack practices while driving real-world impact through innovative projects, including accessible fintech platforms for financial literacy. Passionate about open source, team leadership, and turning ideas into scalable products. 
+Open to collaboration on web/desktop apps, or open-source contributions.
 
 -------------------------------------------------------------------------------
 
