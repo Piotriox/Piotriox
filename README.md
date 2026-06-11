@@ -1,6 +1,6 @@
 ## Hello, I am Piotriox
 
-I love Web, App Development, IoT and Low Level
+I love Web, App Development and Low Level
  
 
 ## Some Projects I did:
@@ -9,7 +9,7 @@ Lakeban (Social Media Platform – Co-Founder) — My first full web project, bu
 
 Kria Programming Language — A high-performance scripting language developed in Rust. It aims to combine low-level execution speed with a clean and developer-friendly syntax. Features a custom flat bytecode VM with combined instructions for optimal performance. Currently in active development.
 
-Forkit Browser — Cool browser based on Nw.js. Full TLS support, fingerprint randomization, header randomization and more.
+Forkit Browser — Has its own browser engine, written on rust
 
 
 Open to collaboration on web/desktop apps, or open-source contributions.
